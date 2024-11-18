@@ -40,6 +40,5 @@ IDE: Jupyter Notebook or any Python-compatible IDE
 License
 This project is licensed under the MIT License.
 
-Contributing
 Feel free to contribute by submitting issues or pull requests.
 
