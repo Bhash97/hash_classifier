@@ -31,6 +31,12 @@ Neural Network Classifier: Built with TensorFlow/Keras, the classifier uses mult
 Custom Evaluation Metrics: Grading system ranks hash functions on a scale of 1 to 5.
 Visualization and Analysis: Provides detailed performance insights through plots and tables.
 
+Environment Setup
+Development Environment
+Python Version: 3.8 or higher
+Environment: Anaconda (recommended for package and environment management)
+IDE: Jupyter Notebook or any Python-compatible IDE
+
 License
 This project is licensed under the MIT License.
 
